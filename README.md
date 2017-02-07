@@ -1,24 +1,7 @@
 # Release
 
-**TODO: Add description**
+Small tool to create and manage releases (and an opportunity to play with Elixir!)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add `release` to your list of dependencies in `mix.exs`:
-
-    ```elixir
-    def deps do
-      [{:release, "~> 0.1.0"}]
-    end
-    ```
-
-  2. Ensure `release` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:release]]
-    end
-    ```
-
+**TODO: Add description**
